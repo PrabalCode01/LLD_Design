@@ -1,0 +1,1 @@
+{"name":"Local: gfg","url":"p:\\MachineCoding\\LLD_Design\\gfg.cpp","tests":[{"id":1723990932050,"input":"1\n5\n10\n74 0 0 73 19","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\MachineCoding\\LLD_Design\\gfg.cpp","group":"local","local":true}

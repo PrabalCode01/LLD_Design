@@ -1,0 +1,16 @@
+Player
+-> name
+-> symbol type (X,O)
+
+Board 
+-> Initialize Board
+-> Display Board
+-> Update Board
+-> condition to check if someone won the game
+
+
+Game:
+
+-> game loop till any player wins or tie
+-> handle player turns
+-> gameStates(won, draw , ongoing)
